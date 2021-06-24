@@ -19,6 +19,8 @@ How to run - python3 1Challenge_3tier.py
 
 **Note** : Since i do not have a GCP billed account and was unble to execute this program explicitely. I have designed it to represents a 3 Tier environment.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 **2Challenge_getMetadata.py**
 
 Architecture used - GCP and
@@ -39,6 +41,7 @@ Below is the metadata information of this VM -
 -----------------------------------------------
 [{'deviceName': 'boot', 'index': 0, 'interface': 'SCSI', 'mode': 'READ_WRITE', 'type': 'PERSISTENT-SSD'}, {'deviceName': 'home', 'index': 1, 'interface': 'SCSI', 'mode': 'READ_WRITE', 'type': 'PERSISTENT'}]
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3Challenge_getvalues.py**
 
