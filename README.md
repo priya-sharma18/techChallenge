@@ -18,6 +18,7 @@ Step by Step process -
 How to run - python3 1Challenge_3tier.py
 
 **Note** : Since i do not have a GCP billed account and was unble to execute this program explicitely. I have designed it to represents a 3 Tier environment.
+Also, i am just a begineer on Terraform, so i have added Module script for re-creating BQ and GCS environment.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
