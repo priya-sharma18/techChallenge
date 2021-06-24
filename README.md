@@ -57,8 +57,8 @@ Sample Output for object - {“a”:{“b”:{“c”:”d”}}}
  
 **priyasha464@cloudshell:~ (ga360-data-export)$ python3 getValues.py
 
-{'a': {'b': {'c': {'z': 'a'}}}}
+{'a': {'b': {'c': {'z': 'd'}}}}
 
-Value if this object is a**
+Value if this object is d**
 
 
