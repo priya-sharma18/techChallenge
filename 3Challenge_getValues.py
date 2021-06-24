@@ -1,3 +1,5 @@
+#Function to get Values from a keyValue pair
+
 def get_values(d):
     for k, v in d.items():
         if isinstance(v, dict):
@@ -7,8 +9,9 @@ def get_values(d):
             print("Value if this object is {1}".format(k, v))
 
 
-#D1= {"a":{"b":{"c":{"z":"a"}}}}
-D={"name":"john" , "age":"26"}
+D= {"a":{"b":{"c":{"z":"a"}}}}
+#D1={"name":"john" , "age":"26"}
+
 print(D)
 #Calling get_values function by passing an object
 get_values(D)
